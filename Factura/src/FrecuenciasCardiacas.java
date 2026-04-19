@@ -17,8 +17,8 @@ public class FrecuenciasCardiacas {
     public String getNombre (){return nombre;}
     public String getApellido (){return apellido;}
     public int getDiaNacimiento (){return diaNacimiento;}
-    public int getAnioNacimiento() {return mesNacimiento;}
-    public int getMesNacimiento() {return anioNacimiento;}
+    public int getAnioNacimiento() {return anioNacimiento;}
+    public int getMesNacimiento() {return mesNacimiento;}
 
     public void establecerNombre(String nombre) { this.nombre = nombre; }
     public void establecerApellido(String apellido) { this.apellido = apellido; }
